@@ -38,17 +38,3 @@ Browse by topic:
 | :--- | :--- |
 | [Colibri-digital-test](https://github.com/PetricaR/Colibri-digital-test) | Wind turbine power data analysis notebook. |
 | [rev-app](https://github.com/PetricaR/rev-app) | Stock analysis scripts and notebooks using Yahoo Finance data. |
-
-## Forks I work with
-
-| Fork | Upstream |
-| :--- | :--- |
-| [openworker](https://github.com/PetricaR/openworker) | [andrewyng/openworker](https://github.com/andrewyng/openworker) |
-| [google_workspace_mcp](https://github.com/PetricaR/google_workspace_mcp) | [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) |
-| [rohlik-mcp](https://github.com/PetricaR/rohlik-mcp) | [tomaspavlin/rohlik-mcp](https://github.com/tomaspavlin/rohlik-mcp) |
-| [gcc-creative-studio](https://github.com/PetricaR/gcc-creative-studio) | [GoogleCloudPlatform/gcc-creative-studio](https://github.com/GoogleCloudPlatform/gcc-creative-studio) |
-| [bleachAgentBuilder](https://github.com/PetricaR/bleachAgentBuilder) | [vivek100/bleachAgentBuilder](https://github.com/vivek100/bleachAgentBuilder) |
-| [AutoSeries](https://github.com/PetricaR/AutoSeries) | [DenisVorotyntsev/AutoSeries](https://github.com/DenisVorotyntsev/AutoSeries) |
-| [codespaces-quickstart](https://github.com/PetricaR/codespaces-quickstart) | [RasaHQ/codespaces-quickstart](https://github.com/RasaHQ/codespaces-quickstart) |
-
-Older reference forks (time-series and ML libraries) are archived.
