@@ -24,7 +24,6 @@ Browse by topic:
 | Project | What it does |
 | :--- | :--- |
 | [multimodal-shopping-ai-assistant](https://github.com/PetricaR/multimodal-shopping-ai-assistant) | Multimodal (image + text) product similarity search with Vertex AI embeddings and Vector Search. |
-| [bringo-multimodal-shopping-ai-assistant](https://github.com/PetricaR/bringo-multimodal-shopping-ai-assistant) | Bringo variant of the multimodal product similarity search. |
 
 ## Data platform
 
